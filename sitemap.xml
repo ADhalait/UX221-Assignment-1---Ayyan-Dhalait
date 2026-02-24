@@ -17,6 +17,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/2-essential-driving-skills/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/2-essential-skills-for-driving/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
